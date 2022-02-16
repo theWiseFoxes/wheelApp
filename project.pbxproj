@@ -18,6 +18,7 @@
 		0D7587D827BB4626007C85FC /* Networking.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0D7587D727BB4626007C85FC /* Networking.swift */; };
 		0D7587DA27BB468D007C85FC /* HTTPError.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0D7587D927BB468D007C85FC /* HTTPError.swift */; };
 		0D7587DC27BB47E3007C85FC /* Constants.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0D7587DB27BB47E3007C85FC /* Constants.swift */; };
+		0D7587FD27BCB350007C85FC /* ImagePicker.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0D7587FC27BCB350007C85FC /* ImagePicker.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -34,6 +35,7 @@
 		0D7587D727BB4626007C85FC /* Networking.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Networking.swift; sourceTree = "<group>"; };
 		0D7587D927BB468D007C85FC /* HTTPError.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HTTPError.swift; sourceTree = "<group>"; };
 		0D7587DB27BB47E3007C85FC /* Constants.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Constants.swift; sourceTree = "<group>"; };
+		0D7587FC27BCB350007C85FC /* ImagePicker.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImagePicker.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -110,6 +112,7 @@
 				0D4E95D727B996C800E2BA3D /* AtomicArray.swift */,
 				0D7587D927BB468D007C85FC /* HTTPError.swift */,
 				0D7587DB27BB47E3007C85FC /* Constants.swift */,
+				0D7587FC27BCB350007C85FC /* ImagePicker.swift */,
 			);
 			path = Helper;
 			sourceTree = "<group>";
@@ -199,6 +202,7 @@
 				0D7587DA27BB468D007C85FC /* HTTPError.swift in Sources */,
 				0D4E95D827B996C800E2BA3D /* AtomicArray.swift in Sources */,
 				0D4E95C127B94D3D00E2BA3D /* WheelApplicationApp.swift in Sources */,
+				0D7587FD27BCB350007C85FC /* ImagePicker.swift in Sources */,
 				0D7587D827BB4626007C85FC /* Networking.swift in Sources */,
 				0D7587DC27BB47E3007C85FC /* Constants.swift in Sources */,
 			);
